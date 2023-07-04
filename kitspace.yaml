@@ -1,0 +1,8 @@
+bom: hw/sch_pcb/CLKDIV01.kicad_pcb
+color: white
+eda:
+  pcb: hw/sch_pcb/CLKDIV01.kicad_pcb
+  type: kicad
+gerbers: hw/cam_profi/
+site: https://github.com/mlab-modules/CLKDIV01
+summary: null
